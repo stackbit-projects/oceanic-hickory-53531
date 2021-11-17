@@ -9,7 +9,6 @@ excerpt: >-
   their attention.
 featuredImage:
   type: ImageBlock
-  url: /images/pile-of-fish.png
   altText: Post Image
 bottomSections:
   - type: CtaSection
