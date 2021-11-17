@@ -3,7 +3,10 @@ title: Thoughts about ios and beyond
 layout: PostLayout
 date: '2021-07-01'
 author: content/data/team/hilary-ouse.json
-excerpt: MOBILE | Native IOS |
+excerpt: >-
+  I created a design system for displaying and presenting information to viewers
+  that respects their autonomy in the context of the whirlwind apps vying for
+  their attention.
 featuredImage:
   type: ImageBlock
   url: /images/pile-of-fish.png
