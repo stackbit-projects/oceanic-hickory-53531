@@ -1,5 +1,5 @@
 ---
-title: Thoughts about ios and beyond
+title: Research into notifications and control
 layout: PostLayout
 date: '2021-07-01'
 author: content/data/team/hilary-ouse.json
